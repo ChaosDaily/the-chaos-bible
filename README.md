@@ -1,5 +1,7 @@
-# 混沌圣经
+# The Chaos Bible
 
-1. 局部性原理在任何连续时空中必然生效
-2. 局部即整体
-3. 分形相似触类旁通
+- The principle of locality inevitably takes effect in any continuous spacetime.
+- The local is the global.
+- Fractal similarity implies analogical reasoning; conclusions valid in one system will inevitably apply in another system.
+
+
